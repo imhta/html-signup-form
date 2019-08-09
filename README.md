@@ -12,8 +12,6 @@ Its an HTML signup form that is a replica of Mint Signup Form from Intuit Corp. 
 #### Original URL:  [Mint Signup Form](https://accounts.intuit.com/signup.html)
 
 # Authors
-+ Saintaze [https://github.com/saintaze/](https://github.com/saintaze/)
-+ Imhtapm [https://github.com/imhtapm](https://github.com/imhtapm)
++ Saintaze [@saintaze](https://github.com/saintaze/)
++ Imhta [@imhta](https://github.com/imhta)
 
-# Github Page
-Live Version: 
